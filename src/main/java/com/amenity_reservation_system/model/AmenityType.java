@@ -1,6 +1,6 @@
 package com.amenity_reservation_system.model;
 public enum AmenityType {
-    POOL("POOL"), SAUNA("SAUNA"), GYM("GYM");
+    POOL("POOL"), CLUB_HOUSE("CLUB_HOUSE"), GYM("GYM");
 
     private final String name;
 
