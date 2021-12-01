@@ -5,6 +5,8 @@ An amenity reservation system where users/residents can log in and reserve a tim
 
 
 Application path:http://localhost:8080/
+login: user name : abhilashgd 
+       password:12345
 DB: h2DB path: http://localhost:8080/h2-console/
 JDBC URL: jdbc:h2:mem:amenity-reservation-system
 Application Testing : http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/user-controller/createUser
